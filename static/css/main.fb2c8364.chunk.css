@@ -1,0 +1,2 @@
+html{font-family:Arial,Helvetica,sans-serif}body{background-color:#282a2b}.App{width:60%;margin:0 auto;text-align:center}.page-title{color:#fff}.todo-item{display:grid;grid-template-columns:400px repeat(2,200px);justify-content:space-between;align-items:center;list-style:none;color:#fff;background-color:#484848;border:1px solid grey}.todo-item>*{margin:0;padding:20px}.todo-list{padding:0;margin-top:30px;background-color:#fff}
+/*# sourceMappingURL=main.fb2c8364.chunk.css.map */
